@@ -40,3 +40,9 @@ OBJETIVO GENERAL
 Crear una solución de software para gestionar datos personales que enfoque la eficiencia técnica, funcionalidad y protección de la privacidad, 
 el objetivo es demostrar cómo la ingeniería de software puede mejorar la gestión responsable de datos personales en entornos digitales y cumpliendo 
 con regulaciones pertinentes.
+
+\section{Objetivos especificos}
+
+OBJETIVOS ESPECIFIVOS
+Analizar y comprender en profundidad los conceptos clave relacionados con la gestión de datos personales, incluyendo la recopilación, almacenamiento, 
+procesamiento y transferencia segura de dichos datos.
