@@ -32,3 +32,11 @@ La creciente digitalización de la información ha llevado a que los datos perso
 En la medicina, la recopilación y el análisis de datos personales pueden conducir a diagnósticos y tratamientos más precisos. En el sector gubernamental, los datos personales se utilizan para mejorar los servicios públicos y tomar decisiones basadas en evidencia.
 
 La ingeniería del software, en su intrincada danza entre la creatividad y la estructura, ha sido siempre un campo en el que los datos personales adquieren un rol crucial. A medida que la tecnología digital se ha enraizado profundamente en nuestra sociedad, los sistemas y aplicaciones que diseñamos y construimos han empezado a tejerse estrechamente con la información personal de los usuarios.
+
+\section{Objetivo general}
+
+OBJETIVO GENERAL
+
+Crear una solución de software para gestionar datos personales que enfoque la eficiencia técnica, funcionalidad y protección de la privacidad, 
+el objetivo es demostrar cómo la ingeniería de software puede mejorar la gestión responsable de datos personales en entornos digitales y cumpliendo 
+con regulaciones pertinentes.
