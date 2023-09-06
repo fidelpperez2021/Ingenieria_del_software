@@ -23,13 +23,12 @@ La ingeniería del software, en esencia, se trata de dar forma a soluciones digi
 
 La capacidad de asignar niveles de acceso y control permitirá a los usuarios compartir datos de forma selectiva y segura. Además, el empleo de prácticas sólidas de ciberseguridad garantizará que la información esté protegida de posibles amenazas, lo que aumentará la confianza en el uso del software. La finalización exitosa de este proyecto se basará en una metodología de desarrollo de software que combina principios ágiles con prácticas de ingeniería sólidas. 
 
-Se seguirá un enfoque iterativo e incremental para el diseño y la implementación, lo que permitirá ajustes flexibles a medida que se recopilen los 
-comentarios de los usuarios y se identifiquen otros requisitos.
+Se seguirá un enfoque iterativo e incremental para el diseño y la implementación, lo que permitirá ajustes flexibles a medida que se recopilen los comentarios de los usuarios y se identifiquen otros requisitos.
 
-Un equipo de desarrollo compuesto por expertos en ingeniería de software y seguridad de datos trabajará en estrecha colaboración para garantizar 
-la coherencia entre el diseño y la funcionalidad.  
-Se llevarán a cabo pruebas exhaustivas en cada etapa para garantizar la alta calidad y confiabilidad del producto final.
+Un equipo de desarrollo compuesto por expertos en ingeniería de software y seguridad de datos trabajará en estrecha colaboración para garantizar la coherencia entre el diseño y la funcionalidad. Se llevarán a cabo pruebas exhaustivas en cada etapa para garantizar la alta calidad y confiabilidad del producto final.
 
-La creciente digitalización de la información ha llevado a que los datos personales se conviertan en un recurso valioso para diversas entidades, 
-desde empresas que desean personalizar sus ofertas hasta gobiernos que buscan tomar decisiones informadas. En el ámbito comercial, 
-el análisis de datos personales permite a las empresas comprender mejor a sus clientes, ajustar sus estrategias de marketing y mejorar la experiencia del usuario.
+La creciente digitalización de la información ha llevado a que los datos personales se conviertan en un recurso valioso para diversas entidades, desde empresas que desean personalizar sus ofertas hasta gobiernos que buscan tomar decisiones informadas. En el ámbito comercial, el análisis de datos personales permite a las empresas comprender mejor a sus clientes, ajustar sus estrategias de marketing y mejorar la experiencia del usuario.
+
+En la medicina, la recopilación y el análisis de datos personales pueden conducir a diagnósticos y tratamientos más precisos. En el sector gubernamental, los datos personales se utilizan para mejorar los servicios públicos y tomar decisiones basadas en evidencia.
+
+La ingeniería del software, en su intrincada danza entre la creatividad y la estructura, ha sido siempre un campo en el que los datos personales adquieren un rol crucial. A medida que la tecnología digital se ha enraizado profundamente en nuestra sociedad, los sistemas y aplicaciones que diseñamos y construimos han empezado a tejerse estrechamente con la información personal de los usuarios.
