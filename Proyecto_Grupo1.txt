@@ -46,3 +46,14 @@ con regulaciones pertinentes.
 OBJETIVOS ESPECIFIVOS
 Analizar y comprender en profundidad los conceptos clave relacionados con la gestión de datos personales, incluyendo la recopilación, almacenamiento, 
 procesamiento y transferencia segura de dichos datos.
+
+Documentar el proceso de diseño y desarrollo, destacando las decisiones tomadas en relación con la gestión de datos personales, los desafíos encontrados 
+y las soluciones implementadas.
+
+begin{enumerate}
+\iten Analizar
+\iten Diseñar
+\iten Programar
+\end{enumerate}
+
+\end{enumerate}
