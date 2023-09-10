@@ -3,10 +3,12 @@
   <folder name="Strategy" id="id-d82ee7e134024822ac6d0148227d89f6" type="strategy">
     <element xsi:type="archimate:ValueStream" name="Value Stream" id="id-015e34f13b1a4c9788562b36d0fe9b5b"/>
     <element xsi:type="archimate:ValueStream" name="Value Stream" id="id-72adf850dd11421ba2979931bbd7bf85"/>
+
     <element xsi:type="archimate:ValueStream" name="Gestion de datos personales" id="id-4fb60a3c69bd42e181c8394627972275"/>
     <element xsi:type="archimate:ValueStream" name="Value Stream" id="id-487bff0935f74717970261ab9c0c12ac"/>
     <element xsi:type="archimate:ValueStream" name="Gestion de datos personales" id="id-a6fa6ac8057048c5ae5d8198a0dc6005"/>
   </folder>
+
   <folder name="Business" id="id-bb55fe0459184647aca50219af71733d" type="business">
     <element xsi:type="archimate:BusinessEvent" name="Business Event" id="id-fde2677e109a4dbab3e82b85ba44cb11"/>
 <element xsi:type="archimate:BusinessFunction" name="Business Function" id="id-227857dbaad3412ab36fea37c66e76f4"/>
