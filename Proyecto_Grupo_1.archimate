@@ -33,7 +33,7 @@
     <element xsi:type="archimate:ApplicationComponent" name="Pluguin" id="id-cda682c223a44388aaaec9cb5dd2428a"/>
     <element xsi:type="archimate:ApplicationComponent" name="Editor" id="id-3f7eb757a3164447a363f70d6051c9e8"/>
     <element xsi:type="archimate:ApplicationComponent" name="Modulo certificado" id="id-a01bd7d1d5914fd994f0da5e3502453d"/>
-  </folder>
+  </folder >
   <folder name="Technology &amp; Physical" id="id-5fc329fb774340d795b320ed8f097962" type="technology">
     <element xsi:type="archimate:TechnologyEvent" name="Technology Event" id="id-48f734eae38c451896a309f1c83ce49f"/>
     <element xsi:type="archimate:TechnologyFunction" name="Technology Function" id="id-31e2c975ff374815980ee8a78cf934dc"/>
