@@ -9,7 +9,7 @@
   </folder>
   <folder name="Business" id="id-bb55fe0459184647aca50219af71733d" type="business">
     <element xsi:type="archimate:BusinessEvent" name="Business Event" id="id-fde2677e109a4dbab3e82b85ba44cb11"/>
-    <element xsi:type="archimate:BusinessFunction" name="Business Function" id="id-227857dbaad3412ab36fea37c66e76f4"/>
+<element xsi:type="archimate:BusinessFunction" name="Business Function" id="id-227857dbaad3412ab36fea37c66e76f4"/>
     <element xsi:type="archimate:BusinessFunction" name="Business Function" id="id-ba013b5a09ee4622bfb1858f243dbbc7"/>
     <element xsi:type="archimate:BusinessEvent" name="Gestion de datos personales" id="id-c538f3bcb81242b78b24a45a337724ab"/>
     <element xsi:type="archimate:BusinessActor" name="Persona" id="id-9df9768f19f745a8974ed5c6e07ca1ca"/>
@@ -17,8 +17,8 @@
     <element xsi:type="archimate:BusinessProcess" name="Loguear" id="id-eb9d755fe3904a6aab079df1ec12a751"/>
     <element xsi:type="archimate:BusinessProcess" name="Registro personal" id="id-3cdd6f332639447fa98331f9bb353468"/>
     <element xsi:type="archimate:BusinessProcess" name="Registro de Plugin" id="id-faa296eed99d407faafe85e9a0f06c23"/>
-    <element xsi:type="archimate:Contract" name="Contract" id="id-2cff6a68ee97481e9714bad1ffc57910"/>
-    <element xsi:type="archimate:Product" name="Product" id="id-791ff62494654a169056e115323d410e"/>
+    <element xsi:type="archimate:Contract" name="Contract" id="id-2cff6a68ee97481e9714bad1ffc57910" />
+    <element xsi:type="archimate:Product" name="Product" id="id-791ff62494654a169056e115323d410e" />
   </folder>
   <folder name="Application" id="id-42b8725d71f14f5c9ba1aeae0876aaad" type="application">
     <element xsi:type="archimate:ApplicationFunction" name="Application Function" id="id-5cb992de090245ccbd0aeccf69122cc8"/>
