@@ -110,6 +110,7 @@
         <child xsi:type="archimate:DiagramObject" id="id-c0c771fd956d41028d934cffcafb4c1c" targetConnections="id-0d6297e9420b47f399fd31ced0d25481" font="1|Segoe UI|13.8|0|WINDOWS|1|-23|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI" archimateElement="id-a01bd7d1d5914fd994f0da5e3502453d" type="1">
           <bounds x="252" y="144" width="212" height="55"/>
         </child>
+
       </child>
       <child xsi:type="archimate:DiagramObject" id="id-7b8396e23f8d4a1bb9418a76bec9e259" archimateElement="id-31e2c975ff374815980ee8a78cf934dc">
         <bounds x="312" y="708" width="673" height="229"/>
@@ -121,4 +122,4 @@
     </element>
   </folder>
 </archimate:model>
-</archimate:model>
+</archimate:model> 
