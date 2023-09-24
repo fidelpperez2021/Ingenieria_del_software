@@ -98,7 +98,27 @@ begin{enumerate}
 \includegraphics[scale=0.3]{19.png} \\
 
 \includegraphics[scale=0.3]{20.png} \\
-FIDELIO AQUI VA TU PARTE
+\includegraphics[scale=0.3]{21.png} \\
+
+\includegraphics[scale=0.3]{22.png} \\
+
+\includegraphics[scale=0.3]{23.png} \\
+
+\includegraphics[scale=0.3]{24.png} \\
+
+\includegraphics[scale=0.3]{25.png} \\
+
+\includegraphics[scale=0.3]{26.png} \\
+
+\includegraphics[scale=0.3]{27.png} \\
+
+\includegraphics[scale=0.3]{28.png} \\
+
+\includegraphics[scale=0.3]{29.png} \\
+
+\includegraphics[scale=0.3]{30.png} \\
+
+\includegraphics[scale=0.3]{31.png} \\
 \includegraphics[scale=0.3]{32.png} \\
 
 \includegraphics[scale=0.3]{33.png} \\
