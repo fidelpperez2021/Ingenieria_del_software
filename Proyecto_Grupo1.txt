@@ -120,3 +120,20 @@ FIDELIO AQUI VA TU PARTE
 \includegraphics[scale=0.3]{41.png} \\
 
 \includegraphics[scale=0.3]{42.png} \\
+
+\includegraphics[scale=0.3]{43.png} \\
+
+\includegraphics[scale=0.3]{44.png} \\
+
+\includegraphics[scale=0.3]{45.png} \\
+
+\includegraphics[scale=0.3]{46.png} \\
+
+\includegraphics[scale=0.3]{47.png} \\
+
+\includegraphics[scale=0.3]{48.png} \\
+
+\includegraphics[scale=0.3]{49.png} \\
+
+\includegraphics[scale=0.3]{50.png} \\
+\end{document}
