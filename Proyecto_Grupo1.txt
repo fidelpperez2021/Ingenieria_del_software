@@ -57,3 +57,5 @@ begin{enumerate}
 \end{enumerate}
 
 \end{enumerate}
+\section{Modelo del sistema}
+\includegraphics[scale=0.5]{ProyectoG1.png}
