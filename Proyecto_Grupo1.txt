@@ -81,3 +81,20 @@ begin{enumerate}
 \includegraphics[scale=0.3]{10.png} \\
 
 \includegraphics[scale=0.3]{11.png} \\
+\includegraphics[scale=0.3]{12.png} \\
+
+\includegraphics[scale=0.3]{13.png} \\
+
+\includegraphics[scale=0.3]{14.png} \\
+
+\includegraphics[scale=0.3]{15.png} \\
+
+\includegraphics[scale=0.3]{16.png} \\
+
+\includegraphics[scale=0.3]{17.png} \\
+
+\includegraphics[scale=0.3]{18.png} \\
+
+\includegraphics[scale=0.3]{19.png} \\
+
+\includegraphics[scale=0.3]{20.png} \\
