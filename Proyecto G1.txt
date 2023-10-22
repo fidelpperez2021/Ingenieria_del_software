@@ -380,3 +380,132 @@ Se asume que los requisitos aquí descritos son estables.
 \centering
 \begin{tabular}{|l|p{10cm}|}
 \hline
+
+\multicolumn{2}{|c|}{\textbf{Requerimiento: RF06 Modificar}} \\ \hline
+ 
+\textbf{Identificación} & \textbf{RF06} \\ \hline
+\textbf{Nombre} & Modificar \\ \hline
+\textbf{Características} & El sistema permitirá al administrador modificar los datos personales del cliente, usuario e instructores. \\ \hline
+\textbf{Descripción} & Permite al administrador modificar datos de los usuarios, clientes e instructores, datos personales, ventas. \\ \hline
+
+\textbf{Requerimiento NO funcional} & \textbf{• RNF01 • RNF02 • RNF05} \\ \hline
+\textbf{Prioridad} & \textbf{Alta} \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[h]
+\centering
+\begin{tabular}{|l|p{10cm}|}
+\hline
+
+\multicolumn{2}{|c|}{\textbf{Requerimiento: Gestionar Reportes}} \\ \hline
+
+\textbf{Identificación} & \textbf{[Inserte Identificación]} \\ \hline
+\textbf{Nombre} & Gestionar Reportes \\ \hline
+\textbf{Características} & El sistema permitirá generar reportes. \\ \hline
+\textbf{Descripción} & Permite al administrador imprimir reportes de las actividades realizadas por el usuario. \\ \hline
+
+\textbf{Requerimiento NO funcional} & \textbf{• RNF01 • RNF02} \\ \hline
+\textbf{Prioridad} & \textbf{Alta} \\ \hline
+\end{tabular}
+\end{table}
+
+\section*{ Requerimientos No Funcionales.}
+\begin{table}[h]
+\centering
+\begin{tabular}{|l|p{10cm}|}
+\hline
+ 
+\multicolumn{2}{|c|}{\textbf{Requerimiento: RNF01 Interfaz del sistema}} \\ \hline
+
+\textbf{Identificación} & \textbf{RNF01} \\ \hline
+\textbf{Nombre} & Interfaz del sistema \\ \hline
+\textbf{Características} & El sistema presentará una interfaz de usuario sencilla para que sea de fácil manejo a los usuarios del sistema. \\ \hline
+\textbf{Descripción} & El sistema debe tener una interfaz de uso intuitiva y sencilla. \\ \hline
+
+\textbf{Prioridad} & \textbf{Alta} \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[h]
+\centering
+\begin{tabular}{|l|p{10cm}|}
+\hline
+ 
+\multicolumn{2}{|c|}{\textbf{Requerimiento: RNF02 Ayuda en el uso del sistema}} \\ \hline
+
+\textbf{Identificación} & \textbf{RNF02} \\ \hline
+\textbf{Nombre} & Ayuda en el uso del sistema \\ \hline
+\textbf{Características} & La interfaz del usuario deberá presentar un sistema de ayuda para que los mismos usuarios del sistema se les facilite el trabajo en cuanto al manejo del sistema. \\ \hline
+\textbf{Descripción} & La interfaz debe estar complementada con un buen sistema de ayuda (la administración puede recaer en personal con poca experiencia en el uso de aplicaciones informáticas). \\ \hline
+
+\textbf{Prioridad} & \textbf{Alta} \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[h]
+\centering
+\begin{tabular}{|l|p{10cm}|}
+\hline
+
+\multicolumn{2}{|c|}{\textbf{Requerimiento: RNF03 Mantenimiento}} \\ \hline
+ 
+\textbf{Identificación} & \textbf{RNF03} \\ \hline
+\textbf{Nombre} & Mantenimiento \\ \hline
+\textbf{Características} & El sistema deberá tener un manual de instalación y manual de usuario para facilitar los mantenimientos que serán realizados por el administrador. \\ \hline
+\textbf{Descripción} & El sistema debe disponer de una documentación fácilmente actualizable que permita realizar operaciones de mantenimiento con el menor esfuerzo posible. \\ \hline
+\textbf{Prioridad} & \textbf{Alta} \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[h]
+\centering
+\begin{tabular}{|l|p{10cm}|}
+\hline
+ 
+\multicolumn{2}{|c|}{\textbf{Requerimiento: RNF04 Diseño de la interfaz a la característica de la web}} \\ \hline
+
+\textbf{Identificación} & \textbf{RNF04} \\ \hline
+\textbf{Nombre} & Diseño de la interfaz a la característica de la web \\ \hline
+\textbf{Características} & El sistema deberá tener una interfaz de usuario que se ajuste a las características de la web de la institución, dentro de la cual estará incorporado el sistema de gestión de procesos y el inventario. \\ \hline
+\textbf{Descripción} & La interfaz de usuario debe adaptarse a las características de la web de la institución. \\ \hline
+\textbf{Prioridad} & \textbf{Alta} \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[h]
+\centering
+\begin{tabular}{|l|p{10cm}|}
+\hline
+
+\multicolumn{2}{|c|}{\textbf{Requerimiento: RNF05 Desempeño}} \\ \hline
+\textbf{Identificación} & \textbf{RNF05} \\ \hline
+\textbf{Nombre} & Desempeño \\ \hline
+\textbf{Características} & El sistema garantizará a los usuarios un desempeño óptimo en cuanto a los datos almacenados en el sistema, ofreciéndoles confiabilidad en la consulta y actualización permanente y simultánea sin afectar el tiempo de respuesta. \\ \hline
+\textbf{Descripción} & Garantizar el desempeño del sistema informático para que los registros almacenados puedan ser consultados y actualizados de forma simultánea sin afectar el tiempo de respuesta. \\ \hline 
+\textbf{Prioridad} & \textbf{Alta} \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[h]
+\centering
+\begin{tabular}{|l|p{10cm}|}
+\hline
+
+\multicolumn{2}{|c|}{\textbf{Requerimiento: RNF06 Nivel de Usuario}} \\ \hline
+ 
+\textbf{Identificación} & \textbf{RNF06} \\ \hline
+\textbf{Nombre} & Nivel de Usuario \\ \hline
+\textbf{Características} & Garantizar al usuario el acceso a la información de acuerdo al nivel que posee. \\ \hline
+\textbf{Descripción} & Proporcionar facilidades y controles para permitir el acceso a la información al personal autorizado a través de Internet, con la intención de consultar y subir información pertinente para cada uno de ellos. \\ \hline
+ 
+\textbf{Prioridad} & \textbf{Alta} \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[h]
+\centering
+\begin{tabular}{|l|p{10cm}|}
+\hline
+ 
+\multicolumn{2}{|c|}{\textbf{Requerimiento: RNF06 Nivel de Usuario}} \\ \hline
