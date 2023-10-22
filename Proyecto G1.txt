@@ -1,0 +1,256 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{xcolor}
+
+\title{Especificación de Requisitos de Software}
+\author{Proyecto: Gestión de Datos Personales}
+\date{}
+
+\begin{document}
+\maketitle
+
+\section*{Especificación de Requisitos de Software}
+\textit{Proyecto: Gestión de Datos Personales}
+
+Este formato es una plantilla tipo para documentos de requisitos del software. Está basado y es conforme con el estándar IEEE Std 830-1998.
+Las secciones que no se consideren aplicables al sistema descrito podrán de forma justificada indicarse como no aplicables (NA).
+
+\textbf{Notas:}
+Los textos en color azul son indicaciones que deben eliminarse y, en su caso, sustituirse por los contenidos descritos en cada apartado.
+
+Los textos entre corchetes del tipo “[Inserte aquí el texto]” permiten la inclusión directa de texto con el color y estilo adecuado a la sección, al pulsar sobre ellos con el puntero del ratón.
+
+Los títulos y subtítulos de cada apartado están definidos como estilos de MS Word, de forma que su numeración consecutiva se genera automáticamente según se trate de estilos “Titulo1, Titulo2 y Titulo3”.
+
+La sangría de los textos dentro de cada apartado se genera automáticamente al pulsar Intro al final de la línea de título. (Estilos Normal indentado1, Normal indentado 2 y Normal indentado 3).
+
+El índice del documento es una tabla de contenido que MS Word actualiza tomando como criterio los títulos del documento.
+Una vez terminada su redacción debe indicarse a Word que actualice todo su contenido para reflejar el contenido definitivo.
+
+\documentclass{article}
+\usepackage{array}
+
+
+\begin{table}[h]
+\centering
+\begin{tabular}{|m{2cm}|m{3cm}|}
+\hline
+\textbf{Fecha} & \textbf{Nombre} \\ \hline
+18/10/2023 & Josue Lastra \\ \hline
+18/10/2023 & Fidel Perez \\ \hline
+18/10/2023 & Josein Guevara \\ \hline
+18/10/2023 & Leonardo Alvarado \\ \hline
+18/10/2023 & Hugo Angulo \\ \hline
+\end{tabular}
+\caption{Tabla de Fechas y Nombres}
+\end{table}
+
+\begin{table}[h]
+\centering
+\begin{tabular}{|l|l|}
+\hline
+\multicolumn{2}{|c|}{\textbf{Documento validado por las partes en fecha}} \\ \hline
+\textbf{Por el proveedor} & \textbf{Por el cliente} \\ \hline
+Grupo numero 1 & Lic. Stalin Francis \\ \hline
+\end{tabular}
+\caption{Tabla de Validación del Documento}
+\end{table}
+
+
+\section*{Especificación de Requisitos de Software}
+\textit{Pág. 4}
+
+\section*{Contenido}
+\textit{Pág. 4}
+
+\section{FICHA DEL DOCUMENTO}
+\textit{Pág. 3}
+
+\section{1. INTRODUCCIÓN}
+\textit{Pág. 6}
+
+\subsection{1.1 Propósito}
+\textit{Pág. 6}
+
+\subsection{1.2 Alcance}
+\textit{Pág. 6}
+
+\subsection{1.3 Personal involucrado}
+\textit{Pág. 6}
+
+\subsection{1.4 Definiciones, acrónimos y abreviaturas}
+\textit{Pág. 8}
+
+\subsection{1.5 Referencias}
+\textit{Pág. 8}
+
+\subsection{1.6 Resumen}
+\textit{Pág. 8}
+
+\section{2. DESCRIPCIÓN GENERAL}
+\textit{Pág. 8}
+
+\subsection{2.1 Perspectiva del producto}
+\textit{Pág. 9}
+
+\subsection{2.2 Funcionalidad del producto}
+\textit{Pág. 9}
+
+\subsection{2.3 Características de los usuarios}
+\textit{Pág. 10}
+
+\subsection{2.4 Restricciones}
+\textit{Pág. 10}
+
+\subsection{2.5 Suposiciones y dependencias}
+\textit{Pág. 10}
+
+\section{3. REQUISITOS ESPECÍFICOS}
+\textit{Pág. 11}
+
+\subsection{3.1 Requisitos comunes de las interfaces}
+\textit{Pág. 14}
+
+\subsubsection{3.1.1 Interfaces de usuario}
+\textit{Pág. 14}
+
+\subsubsection{3.1.2 Interfaces de hardware}
+\textit{Pág. 14}
+
+\subsubsection{3.1.3 Interfaces de software}
+\textit{Pág. 14}
+
+\subsubsection{3.1.4 Interfaces de comunicación}
+\textit{Pág. 14}
+
+\subsection{3.2 Requerimientos funcionales}
+\textit{Pág. 15}
+
+\subsubsection{3.2.1 Requisito funcional 1}
+\textit{Pág. 15}
+
+\subsubsection{3.2.2 Requisito funcional 2}
+\textit{Pág. 15}
+
+\subsubsection{3.2.3 Requisito funcional 3}
+\textit{Pág. 15}
+
+\subsubsection{3.2.4 Requisito funcional 4}
+\textit{Pág. 15}
+
+\subsubsection{3.2.5 Requisito funcional 5}
+\textit{Pág. 15}
+
+\subsubsection{3.2.6 Requisito funcional 6}
+\textit{Pág. 15}
+
+\subsubsection{3.2.7 Requisito funcional 7}
+\textit{Pág. 15}
+
+\subsubsection{3.2.8 Requisito funcional 8}
+\textit{Pág. 15}
+
+\subsubsection{3.2.9 Requisito funcional 9}
+\textit{Pág. 15}
+
+\subsection{3.3 Requerimientos no funcionales}
+\textit{Pág. 15}
+
+\subsubsection{3.3.1 Requisitos de rendimiento}
+\textit{Pág. 15}
+
+\subsubsection{3.3.2 Seguridad}
+\textit{Pág. 15}
+
+\subsubsection{3.3.3 Fiabilidad}
+\textit{Pág. 15}
+
+\subsubsection{3.3.4 Disponibilidad}
+\textit{Pág. 16}
+
+\subsubsection{3.3.5 Mantenibilidad}
+\textit{Pág. 16}
+
+\subsubsection{3.3.6 Portabilidad}
+\textit{Pág. 16}
+
+
+\section{Especificación de Requisitos de Software}
+
+\subsection{1. Introducción}
+
+Este documento es una Especificación de Requisitos Software (ERS) para el Sistema de Información para la gestión de datos personales. Esta especificación se ha estructurado basándose en las directrices dadas por el estándar IEEE Práctica Recomendada para Especificaciones de Requisitos Software ANSI/IEEE 830, 1998.
+
+\subsubsection{1.1 Propósito}
+
+El presente documento tiene como propósito definir las especificaciones funcionales y no funcionales para el desarrollo de un sistema de información web que permitirá gestionar datos personales. Este sistema será utilizado por el dueño de la empresa y su secretaria.
+
+\subsubsection{1.2 Alcance}
+
+Esta especificación de requisitos está dirigida al usuario del sistema y tiene como objetivo continuar con el desarrollo de aplicaciones web y profundizar en la automatización de ésta. El sistema tiene como objetivo principal gestionar los distintos procesos administrativos, incluyendo Inventario, Eventos, Registros y Ventas.
+
+\subsubsection{1.3 Personal involucrado}
+
+\begin{table}[h]
+\centering
+\begin{tabular}{|l|l|l|l|}
+\hline
+
+\textbf{Nombre} & \textbf{Rol} & \textbf{Categoría Profesional} & \textbf{Información de contacto} \\ \hline
+Leonardo David Alvarado Cornejo & Analista y documentador & Ing. Informático & leonardo.alvarado.cornejo@tuemail.com \\ \hline
+Fidel Ernesto Pérez Bedoya & Programador & Ing. Informático & fidel.perez.bedoya@tuemail.com \\ \hline
+Josue Lastra & Administrador de base de datos & Ing. Informático & josue.lastra@tuemail.com \\ \hline
+Josein Ernesto Guevara Cunalata & Administrador de Servidores & Ing. Informático & josein.guevara.cunalata@tuemail.com \\ \hline
+Hugo Angulo & Desarrollador & Ing. Informático & hugo.angulo@tuemail.com \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[h]
+\centering
+\begin{tabular}{|l|l|}
+\hline
+
+\textbf{Nombre} & Fidel Ernesto Pérez Bedoya \\ \hline
+\textbf{Rol} & Programador \\ \hline
+\textbf{Categoría Profesional} & Ing. Informático \\ \hline
+\textbf{Responsabilidad} & Encargado de la codificación \\ \hline
+\textbf{Información de contacto} & fidel.perez.bedoya@utelvt.edu.ec \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[h]
+\centering
+\begin{tabular}{|l|l|}
+\hline
+
+\textbf{Nombre} & Josue Lastra \\ \hline
+\textbf{Rol} & Administrador de base de datos \\ \hline
+\textbf{Categoría Profesional} & Ing. Informático \\ \hline
+\textbf{Responsabilidad} & Encargado del almacenamiento de los datos \\ \hline
+\textbf{Información de contacto} & josue.lastra@utelvt.edu.ec \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[h]
+\centering
+\begin{tabular}{|l|p{10cm}|}
+\hline
+
+\textbf{Nombre} & \textbf{Descripción} \\ \hline
+Usuario & Persona que usará el sistema para gestionar registros de datos \\ \hline
+GDP & Gestión de Datos Personales \\ \hline
+ERS & Especificación de Requisitos Software \\ \hline
+RF & Requerimiento Funcional \\ \hline
+RNF & Requerimiento No Funcional \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[h]
+\centering
+\begin{tabular}{|l|l|}
+\hline
+ 
+\textbf{Título del Documento} & \textbf{Referencia} \\ \hline
+Standard IEEE 830 - 1998 & IEEE \\ \hline
+\end{tabular}
+\end{table}
