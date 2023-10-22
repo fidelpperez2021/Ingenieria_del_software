@@ -254,3 +254,129 @@ RNF & Requerimiento No Funcional \\ \hline
 Standard IEEE 830 - 1998 & IEEE \\ \hline
 \end{tabular}
 \end{table}
+\section{1.6 Resumen}
+Este documento consta de tres secciones. En la primera sección se realiza una introducción al mismo y se proporciona una visión general de la especificación de recursos del sistema.
+
+En la segunda sección del documento se realiza una descripción general del sistema, con el fin de conocer las principales funciones que éste debe realizar, los datos asociados y los factores, restricciones, supuestos y dependencias que afectan al desarrollo, sin entrar en excesivos detalles.
+
+Por último, la tercera sección del documento es aquella en la que se definen detalladamente los requisitos que debe satisfacer el sistema.
+
+\section{2 Descripción general}
+\subsection{2.1 Perspectiva del producto}
+El sistema de Gestión de Datos Personales está enfocado a cubrir los requerimientos de la Universidad Luis Vargas Torres en la ciudad de Esmeraldas. Por lo que se encargará de realizar las siguientes funciones que solo podrán tener acceso el dueño y la secretaria: acceder mediante un inicio de sesión, cerrar sesión, registrarse para tener una cuenta de acceso al sistema, registro de datos, dar de baja un usuario, consultar los datos registrados, editar y ver datos guardados por el usuario, consulta de los usuarios registrados, editar y ver los registros modificados, consultar últimos cambios, generará un reporte de los movimientos del usuario, reporte de los usuarios ante errores, horarios del servicio particular, horarios del servicio de grupo, horarios del servicio de usuario premium.
+
+\subsection{2.2 Funcionalidad del producto}
+
+\section{Modelo del sistema}
+\includegraphics[scale=0.3]{lastrasd.PNG} \\
+\includegraphics[scale=0.3]{imhg.PNG}//
+
+\section{2.3	Características de los usuarios}
+
+\begin{table}[H]
+\centering
+\caption{Tipo de usuario: Administrador}
+\begin{tabular}{|l|l|}
+\hline
+ 
+\textbf{Tipo de usuario} & Administrador \\ \hline
+\textbf{Formación} & Mantenimiento de página. \\ \hline
+\textbf{Actividades} & Control y manejo del sistema en general \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[H]
+\centering
+\caption{Tipo de usuario: Personas comunes}
+\begin{tabular}{|l|l|}
+\hline
+ 
+\textbf{Tipo de usuario} & Personas comunes \\ \hline
+\textbf{Formación} & Cualquiera \\ \hline
+\textbf{Actividades} & Registra datos en la plataforma. \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[H]
+\centering
+\caption{Tipo de usuario: Exclusivo}
+\begin{tabular}{|l|l|}
+\hline
+
+\textbf{Tipo de usuario} & Exclusivo \\ \hline
+\textbf{Formación} & Cualquiera \\ \hline
+\textbf{Actividades} & Manejo de opciones exclusivas \\ \hline
+\end{tabular}
+\end{table}
+
+\section{2.4 Restricciones}
+\begin{itemize}
+    \item Interfaz para ser usada con internet.
+    \item Uso de Dominio (X)
+    \item Lenguajes y tecnologías en uso: HTML, JAVA.
+    \item Los servidores deben ser capaces de atender consultas concurrentemente.
+    \item El sistema se diseñará según un modelo cliente/servidor.
+    \item El sistema deberá tener un diseño e implementación sencilla, independiente de la plataforma o del lenguaje de programación.
+\end{itemize}
+
+\section{2.5 Suposiciones y Dependencias}
+Se asume que los requisitos aquí descritos son estables.
+
+\section{3 Requisitos Específicos}
+\subsection{Requerimientos Funcionales}
+
+\begin{table}[h]
+\centering
+\begin{tabular}{|l|p{10cm}|}
+\hline
+
+\multicolumn{2}{|c|}{\textbf{Requerimiento}} \\ \hline
+
+\textbf{Identificación} & \textbf{RF01} \\ \hline
+\textbf{Nombre} & Autentificación de Usuario. \\ \hline
+\textbf{Características} & Los usuarios deberán identificarse para acceder al sistema. \\ \hline
+\textbf{Descripción} & El sistema podrá ser consultado por cualquier usuario dependiendo del módulo en el cual se encuentre y su nivel de accesibilidad. \\ \hline
+
+\textbf{Requerimiento NO funcional} & \textbf{• RNF01 • RNF02 • RNF05 • RNF08} \\ \hline
+\textbf{Prioridad} & \textbf{Alta} \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[h]
+\centering
+\begin{tabular}{|l|p{10cm}|}
+\hline
+
+\multicolumn{2}{|c|}{\textbf{Requerimiento: RF02 Registrar Usuarios}} \\ \hline
+
+\textbf{Identificación} & \textbf{RF02} \\ \hline
+\textbf{Nombre} & Registrar Usuarios \\ \hline
+\textbf{Características} & Los usuarios deberán registrarse en el sistema para acceder a cualquier parte del sistema. \\ \hline
+\textbf{Descripción} & El sistema permitirá al usuario (Administrador) registrarse. El usuario debe suministrar datos como: Nombre, Apellido, E-mail, Usuario y Password. \\ \hline
+
+\textbf{Requerimiento NO funcional} & \textbf{• RNF01 • RNF02 • RNF05 • RNF08} \\ \hline
+\textbf{Prioridad} & \textbf{Alta} \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[h]
+\centering
+\begin{tabular}{|l|p{10cm}|}
+\hline
+
+\multicolumn{2}{|c|}{\textbf{Requerimiento: RF04 Consultar Información}} \\ \hline
+
+\textbf{Identificación} & \textbf{RF04} \\ \hline
+\textbf{Nombre} & Consultar Información \\ \hline
+\textbf{Características} & El sistema ofrecerá al usuario información general acerca de los datos personales registrados. \\ \hline
+\textbf{Descripción} & Muestra datos detallados de los procesos realizados dentro del sistema. \\ \hline
+
+\textbf{Requerimiento NO funcional} & \textbf{• RNF01 • RNF02} \\ \hline
+\textbf{Prioridad} & \textbf{Alta} \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[h]
+\centering
+\begin{tabular}{|l|p{10cm}|}
+\hline
